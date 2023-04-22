@@ -58,7 +58,7 @@ My primary focus is on developing innovative solutions using cutting-edge techno
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Rudransh's Coding Journey</h3></summary>
    As a programmer looking to learn AI, I am excited about the possibilities that this field offers. I have a solid foundation in programming concepts and techniques, and I am eager to expand my knowledge and skills in AI.
 
 My goal is to become proficient in the tools, algorithms, and techniques used in AI development, and to apply this knowledge to real-world projects. I am particularly interested in deep learning, natural language processing, and computer vision.
